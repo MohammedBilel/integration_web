@@ -1,0 +1,72 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+/****************************header**************************/
+
+.bande_top{
+	width: 1306px;
+	height: 51px;
+}
+.slider {
+	position: relative;
+    width: 947px;
+    margin: 0 auto;
+}
+.logo {
+    position: absolute;
+    top: 0;
+}
+.nav1{
+	width: 946px;
+	float: left;
+	height: 68px;
+    background-image: url(images/nav1-color.jpg);
+    bottom: 0;
+    position: absolute;
+    margin-top: 26px;
+}
+
+
+.nav1 ul li{
+	float: left;
+	width: 169px;
+    list-style-type: none;
+
+}
+
+.nav1 ul li:hover{
+	background: url(images/menu-bg.jpg);
+}
+
+.nav1 ul li a{
+	text-decoration: none;
+}
+/***************************section***************************/
+section.sec1 {
+    width: 446px;
+    margin: 0px 161px;
+}
+
+.contenu {
+    width: 947px;
+    margin: 0;
+}
+
+.div1 {
+    float: left;
+    width: 458px;
+    margin-right: 16px;
+}
+
+.div2 {
+    float: left;
+    width: 469px;
+}
+
+.Gradini {
+    float: left;
+    margin-right: 16px;
+}
